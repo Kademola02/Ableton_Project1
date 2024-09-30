@@ -1,0 +1,121 @@
+body{margin-right:;
+text-align:;}
+/*.coy{background-image:url("Images/background.jpeg");
+background-repeat:no-repeat;
+background-size:cover;
+background-color:lightblue;
+width:1000px;
+height:1000px;*/
+.hypertext{color:#ff0000;
+font-size:100px;
+text-align:center;
+text-decoration:underline;
+margin-top:100%}
+
+.hypertext-job{color:#b6ffc0;
+font-size:50px;
+text-align:center;
+text-decoration:none;
+margin-top:80%}
+
+.element-1{width:50px;
+height:50px;
+display:inline-block;}
+
+/*.element-2{
+display:inline-block;
+}*/
+
+.drop-down{display:inline-block;
+margin-top:px;
+}
+.about{display:inline-block;
+font-size:25px;
+margin-right:20px;
+} 
+.job{display:inline-block;
+font-size:25px;
+margin-right:20px;}
+.apprenticeship{display: inline-block;
+font-size:25px;}
+
+.parag{background-color:yellow;
+    width:900px;
+    height:800px;
+    margin-left:500px;}
+
+.image{position:relative;
+       top:150px;
+       right:500px}
+
+.images{position:relative;
+        left:300px;
+        bottom:300px; }
+
+.parags{background-color:#55AD99    ;width:850px;
+    height:1300px;
+    margin-right:1500px;}
+    
+.img{position:relative;
+ left:600px;
+ top:500px;}
+ 
+.pple{position:relative;
+bottom:100px;
+right:100px;}
+
+.img-two{position:relative;
+bottom:300px;}
+
+.string{background-color:   #d5b3ff; 
+width:700px;
+height:700px;
+margin-left:230px;}
+
+.sax{position: relative;
+top:250px;
+right:70px;
+}
+
+.pple2{position:relative;
+bottom:200px;
+left:500px;}
+
+.strings{background-color: #b1c5ff;
+width:700px;
+height:700px;
+margin-left:230px;
+}
+
+a{text-decoration:none;
+color:#000000}
+a:hover{color:#ff0000;}
+
+p.address{
+    line-height:2;
+}
+
+.sepe{display:inline-block;
+position:relative;
+bottom:20px;}
+
+.center{
+    margin-right:40px;
+}
+/*.bold{font-size:200%;
+ font-weight:bold;
+ margin-left:250px;
+ line-height:2;}*/
+
+.container-top-image1{
+}
+ 
+.top-image1{
+}
+
+.top-image2{
+}
+
+.top-image3{
+    
+}
